@@ -1,0 +1,24 @@
+body {
+    background-color: #58585A;
+    color: black;
+    font-family: Tahoma, sans-serif;
+    font-size: 16px;
+    margin: 0px;
+    padding: 0px;
+}
+
+a {
+  text-decoration: none;
+}
+a:link {
+  color: rgb(93, 167, 192);
+}
+a:visited {
+  color: purple;
+}
+a:hover {
+  color: hotpink;
+}
+a:active {
+  color: blue;
+}

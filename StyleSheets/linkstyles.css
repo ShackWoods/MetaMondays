@@ -1,0 +1,9 @@
+.CONTENT {
+    position: absolute;
+    top: 4%;
+    left: 2%;
+    width: 94%;
+    background-color: white;
+    padding: 1%;
+    border-radius: 25px;
+}

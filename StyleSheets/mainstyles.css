@@ -1,0 +1,163 @@
+/* Header */
+
+#Header {
+    background-color: #268AB7;
+    position: absolute;
+    text-align: center;
+    color: white;
+    width: 100%;
+    height: 160px;
+    top: 0px;
+    line-height: 0px;
+    font-size: 100px;
+}
+.HeadTitle {
+    position: absolute;
+    left: 50px;
+    top: -20px;
+}
+.Game {
+    position: absolute;
+    top: 30px;
+    right: 450px;
+    font-size: 30px;
+}
+.Format {
+    position: absolute;
+    top: 70px;
+    right: 450px;
+    font-size: 30px;
+    width: 300px;
+    text-align: center;
+}
+.Date {
+    position: absolute;
+    top: 40px;
+    right: 100px;
+    font-size: 40px;
+}
+
+#MAINCONTENT {
+    padding-top: 160px;
+}
+
+/* Footer */
+.Footer {
+    background-color: #cccccc;
+    font-size: 24px;
+    float: left;
+    width: 33%;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    margin-top: 40px;
+    text-align: center;
+}
+
+/* Standard */
+.CONTENT {
+    position:relative;
+    left: 2%;
+    width: 96%;
+    border-width: medium;
+    border-color: black;
+}
+
+#STANDARD {
+    margin-top: 40px;
+    height: 800px;
+    display: flex;
+}
+#T50 {
+    background-color: #ffffff;
+    width: 25%;
+    display: flex;
+    border-radius: 25px 0px 0px 25px;
+    border-style: none solid none none;
+}
+.title {
+    position:absolute;
+    top: 0px;
+    left: 150px;
+}
+.t50column {
+    padding-top: 40px;
+    float: left;
+    width: 50%;
+}
+#HoveredT50Img {
+    position: absolute;
+    width: 230px;
+    height: 230px;
+    top: 560px;
+    left: 70px;
+}
+
+#WordyStuff {
+    background-color: #EF4036;
+    float: right;
+    width: 75%;
+    padding: 40px;
+    border-radius: 0px 25px 25px 0px;
+    border-style: none none none solid;
+}
+.wordbox {
+    background-color: #ffffff;
+    width: 95.45%;
+    height: 46%;
+    border-radius: 25px 25px 0px 0px;
+    padding: 1% 2% 1% 2%;
+    border-style: none none solid none;
+}
+.wordcol {
+    padding-top: 40px;
+    float: left;
+    background-color: #ffffff;
+    height: 46%;
+    padding: 1% 2% 1% 2%;
+}
+#SpicyPicks {
+    width: 60%;
+    border-style: solid solid none none;
+    border-radius: 0px 0px 0px 25px;
+}
+#MetaCall {
+    width: 31%;
+    border-style: solid none none solid;
+    border-radius: 0px 0px 25px 0px;
+}
+#CallMonImg {
+    float: right;
+    width: 25%;
+    height: 25%;
+}
+
+/* Major */
+#Major {
+    background-color: #7762A1;
+    padding-bottom: 1%;
+    border-radius: 25px;
+}
+
+#Usage {
+    display: flex;
+}
+.majorcolumn {
+    float: left;
+    width: 46%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.majortitle {
+    padding-top: 1%;
+    padding-left: 2%;
+    font-size: 32px;
+}
+#MajorWordyStuff {
+    background-color: #ffffff;
+    color: black;
+    position:relative;
+    left: 2%;
+    width: 94%;
+    border-radius: 25px;
+    padding: 1%;
+}
