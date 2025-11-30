@@ -102,3 +102,6 @@ body {
     border-width: medium;
     border-color: black;
 }
+p {
+    text-align: left;
+}
