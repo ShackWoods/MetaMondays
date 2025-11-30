@@ -105,3 +105,6 @@ body {
 p {
     text-align: left;
 }
+#Header p {
+    text-align: center;
+}
